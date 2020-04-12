@@ -38,7 +38,7 @@ Isle of Dogs sushi scene with 24 frames taken every second:
 ![sushi](samples/wes-24-fps.png)
 
 Swedish House Mafia's Ultra 2018 set with 1 frame taken every second:
-!![SHM](samples/shm-1-fps.png)
+![SHM](samples/shm-1-fps.png)
 
 ## License
 

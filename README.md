@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 Run the `frame-medio.py` script.
 
-```bash
+```
 python3 frame-medio.py
 What file do you want to get the average frame of? Filename: <path to input file>
 How many frames per second do you use in your average? (24/1 = every frame, 1 = 1 image per second, 1/600 = 1 image every 10 minutes) Number: <frames per second to use in analysis>

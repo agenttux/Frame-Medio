@@ -4,7 +4,7 @@ Frame Medio is a Python 3 script that outputs the average frame of an input vide
 
 ## Requirements
 
-Frame Medio requires `ffmpeg`[https://ffmpeg.org/download.html] and `python3`[https://www.python.org/].
+Frame Medio requires [`ffmpeg`](https://ffmpeg.org/download.html) and [`python3`](https://www.python.org/).
 
 ## Installation
 
